@@ -1,0 +1,11 @@
+{
+	"slug" : "file-hierarchy-report",
+	"title" : "File Hierarchy Report",
+	"description": "Scanning files in a computer and building a report based on the findings",
+	"status": "published",
+	"duration" : 8,
+	"difficulty": "junior",
+    "solution": "https://github.com/breatheco-de/file-hierarchy-report/tree/solution",
+	"technologies": ["python", "terminal", "command line", "data-structures", "http.request", "file-hierarch"],
+	"talents": []
+}
