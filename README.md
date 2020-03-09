@@ -7,6 +7,15 @@ Another data-structure very commonly used in the world of coding are TREE's, for
 
 In this case, we will use the Tree Hierarchy concept to scan and browse thru a groupd of files in a computer.
 
+# 💻 Installation
+
+Run the following on your command line:
+
+```python
+$ pipenv run install
+$ pipenv run python app.py
+```
+
 # 📝 Instructions
 
 Give the set of files under the `data-files` folder, please write a program that creates a JSON file called report.json that outputs the following repot:
