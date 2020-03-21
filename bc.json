@@ -5,7 +5,7 @@
 	"status": "published",
 	"duration" : 8,
 	"difficulty": "junior",
-    "solution": "https://github.com/breatheco-de/file-hierarchy-report/tree/solution",
+    "solution": "https://github.com/breatheco-de/exercise-file-hierarchy-report/tree/solution",
 	"technologies": ["python", "terminal", "command line", "data-structures", "http.request", "file-hierarch"],
 	"talents": []
 }
