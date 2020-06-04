@@ -4,8 +4,9 @@
 	"description": "Scanning files in a computer and building a report based on the findings",
 	"status": "published",
 	"duration" : 8,
-	"difficulty": "junior",
-    "solution": "https://github.com/breatheco-de/exercise-file-hierarchy-report/tree/solution",
+	"preview": "https://github.com/breatheco-de/exercise-file-hierarchy-report/blob/master/preview.jpg?raw=true",
+	"difficulty": "easy",
+    	"solution": "https://github.com/breatheco-de/exercise-file-hierarchy-report/tree/solution",
 	"technologies": ["python", "terminal", "command line", "data-structures", "http.request", "file-hierarch"],
 	"talents": []
 }
