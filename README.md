@@ -5,15 +5,52 @@ Another data-structure very commonly used in the world of coding are TREE's, for
 1. The computer file system is a Tree.
 2. The DOM (Document Object Model) is a Tree.
 
-In this case, we will use the Tree Hierarchy concept to scan and browse thru a groupd of files in a computer.
+In this case, we will use the Tree Hierarchy concept to scan and browse through a group of files in a computer.
 
 # 💻 Installation
 
-Run the following on your command line:
 
-```python
+```
+## 💻 Installation
+
+a) You can either run this project on Gitpod: gitpod.io#<https://github.com/breatheco-de/exercise-file-hierarchy-report.git>
+
+and run the following on its command line:
+
+``py
 $ pipenv run install
 $ pipenv run python app.py
+```
+
+b) or clone this repository on your local computer:
+
+1. Clone this repository: 
+
+```sh
+$ git clone https://github.com/breatheco-de/exercise-file-hierarchy-report.git
+```
+
+2. Install the dependecy packages by typing: 
+
+```sh
+$ pipenv install --python 3
+```
+
+3. Get inside your virtual environment by typing: 
+
+```sh
+$ pipenv shell
+```
+
+4. You can run the project by typing: 
+
+```sh
+$ python src/app.py
+```
+5. You can also run the tests for the project: 
+
+```sh
+$ python src/test.py
 ```
 
 # 📝 Instructions
