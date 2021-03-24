@@ -7,28 +7,14 @@ Another data-structure very commonly used in the world of coding are TREE's, for
 
 In this case, we will use the Tree Hierarchy concept to scan and browse through a group of files in a computer.
 
-# 💻 Installation
+## 🌱  How to start this project
 
+Do not clone this repository.
 
-```
-## 💻 Installation
+1. The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or opening it using gitpod.
 
-a) You can either run this project on Gitpod: gitpod.io#<https://github.com/breatheco-de/exercise-file-hierarchy-report.git>
-
-and run the following on its command line:
-
-``py
-$ pipenv run install
-$ pipenv run python app.py
-```
-
-b) or clone this repository on your local computer:
-
-1. Clone this repository: 
-
-```sh
-$ git clone https://github.com/breatheco-de/exercise-file-hierarchy-report.git
-```
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/react-hello`.
 
 2. Install the dependecy packages by typing: 
 
@@ -52,6 +38,9 @@ $ python src/app.py
 ```sh
 $ python src/test.py
 ```
+
+
+💡 **Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.**
 
 # 📝 Instructions
 
