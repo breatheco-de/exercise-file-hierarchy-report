@@ -26,7 +26,7 @@ git clone https://github.com/4GeeksAcademy/flask-rest-hello
 $ pipenv install --python 3
 ```
 
-3. Ingresa a tu entorni virtual escribiendo: 
+3. Ingresa a tu entorno virtual escribiendo: 
 
 ```sh
 $ pipenv shell
