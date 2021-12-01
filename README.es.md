@@ -12,7 +12,7 @@ En este caso, usaremos el concepto de árbol de jerarquía  para escanear y nave
 
 No clones este repositorio.
 
-1. El primer paso para comenzar a codificar es clonar el [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) en tu compjutador local o con Gitpod.
+1. El primer paso para comenzar a codificar es clonar el [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) en tu computador local o con Gitpod.
 
 a) Si usas Gitpod (recomendado)  puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/flask-rest-hello).
 
@@ -48,7 +48,7 @@ $ python src/test.py
 
 # 📝 Instrucciones
 
-Muestra el conjunto de archivos que están en la carpeta `data-files`, escribe un programa que cree un JSON file llamado report.json cuya salida sea el siguiente reporte:
+Muestra el conjunto de archivos que están en la carpeta `data-files`, escribe un programa que cree un archivo JSON llamado report.json cuya salida sea el siguiente reporte:
 
 
 ```json
