@@ -20,7 +20,7 @@ b) If working locally type the following command from your command line:
 https://github.com/4GeeksAcademy/flask-rest-hello
 ```
 
-2. Install the dependecy packages by typing: 
+2. Install the dependency packages by typing: 
 
 ```sh
 $ pipenv install --python 3
@@ -48,7 +48,7 @@ $ python src/test.py
 
 # 📝 Instructions
 
-Give the set of files under the `data-files` folder, please write a program that creates a JSON file called report.json that outputs the following repot:
+Give the set of files under the `data-files` folder, please write a program that creates a JSON file called report.json that outputs the following report:
 
 ```json
 {
@@ -70,7 +70,7 @@ Report explanation:
 | levels    | Number of connections between the top node and the lowest node |
 | total_files_found | how many files were found, folders don't count |
 | files_found | the name of each of the files found, without folders |
-| file_extentions_found | a non-repeated list of the file extentions found inside the tree |
+| file_extentions_found | a non-repeated list of the file extensions found inside the tree |
 | total_folders_found | total amount of folders found, files don't count |
 | Links found | How many URL's were found starting with http or https |
 | broken_links_found | How many of the links were broken (you have to do a GET request and check for 404) |
