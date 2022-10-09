@@ -48,7 +48,7 @@ $ python src/test.py
 
 # 📝 Instructions
 
-Give the set of files under the `data-files` folder, please write a program that creates a JSON file called report.json that outputs the following report:
+Given the set of files under the `data-files` folder, please write a program that creates a JSON file called report.json that outputs the following report:
 
 ```json
 {
