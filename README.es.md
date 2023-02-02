@@ -1,4 +1,6 @@
+<!--hide-->
 # Trabajar con el Sistema de Archivos del Computador
+<!--endhide-->
 
 Otra estructura de datos muy utilizada en el mundo de la codificación son los árboles (trees), por ejemplo:
 

@@ -1,4 +1,6 @@
+<!--hide-->
 # Working with the Computer File System
+<!--endhide-->
 
 Another data-structure very commonly used in the world of coding are TREE's, for example:
 
@@ -44,7 +46,7 @@ $ python src/test.py
 ```
 
 
-💡 **Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.**
+💡 **Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit`, and `push`.**
 
 # 📝 Instructions
 
@@ -78,6 +80,6 @@ Report explanation:
 ## 💡 Hint
 
 1. Start by looking `python get files in folder` on google.
-2. This query also helps: `python file is directory` to check if a file is a directory or not.
-3. To google how to find links inside the file content: `python find all links in string`
+2. This query also helps: `python file is a directory` to check if a file is a directory or not.
+3. To google how to find links inside the file content: `python find all links in the string`
 4. Get extension from file name: `python get file extension`
