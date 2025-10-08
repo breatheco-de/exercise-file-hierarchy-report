@@ -1,4 +1,6 @@
+<!-- hide -->
 # Working with the Computer File System
+<!-- endhide -->
 
 Another data-structure very commonly used in the world of coding are TREE's, for example:
 
@@ -7,44 +9,48 @@ Another data-structure very commonly used in the world of coding are TREE's, for
 
 In this case, we will use the Tree Hierarchy concept to scan and browse through a group of files in a computer.
 
+<how-to-start>
+    
 ## 🌱  How to start this project
 
-Do not clone this repository.
+Do not clone this repository because we are going to be using a different template.
 
-1. The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or opening it using gitpod.
+We recommend opening the `python boilerplate`, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://4geeks.com/how-to/github-clone-repository) on your local computer using the `git clone` command.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+This is the repository you need to open or clone:
 
-b) If working locally type the following command from your command line: 
 ```sh
-https://github.com/4GeeksAcademy/flask-rest-hello
+$ git clone https://github.com/4GeeksAcademy/flask-rest-hello
 ```
 
-2. Install the dependency packages by typing: 
+### Steps
+
+1. Install the dependency packages by typing: 
 
 ```sh
 $ pipenv install --python 3
 ```
 
-3. Get inside your virtual environment by typing: 
+2. Get inside your virtual environment by typing: 
 
 ```sh
 $ pipenv shell
 ```
 
-4. You can run the project by typing: 
+3. You can run the project by typing: 
 
 ```sh
 $ python src/app.py
 ```
-5. You can also run the tests for the project: 
+4. You can also run the tests for the project: 
 
 ```sh
 $ python src/test.py
 ```
 
-
 💡 **Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.**
+
+</how-to-start>
 
 # 📝 Instructions
 

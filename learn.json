@@ -10,6 +10,7 @@
 	},
 	"status": "published",
 	"duration" : 8,
+	"template_url": "https://github.com/4GeeksAcademy/flask-rest-hello",
 	"preview": "https://github.com/breatheco-de/exercise-file-hierarchy-report/blob/master/preview.jpg?raw=true",
 	"difficulty": "easy",
     	"solution": "https://github.com/breatheco-de/exercise-file-hierarchy-report/tree/solution",
